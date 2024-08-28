@@ -1,5 +1,9 @@
-# TMC2208-
+# TMC2208
 schematic of tmc2208 for proteus cad 8
+
+# Model 3D By Pablo Miliani
+url:https://grabcad.com/library/tmc2208-and-headsink-outline-1
+
 # Reference Images
 ![image](https://github.com/user-attachments/assets/c114bb55-57ba-4b36-b491-52801fd7db89)
 
