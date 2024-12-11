@@ -1,4 +1,4 @@
-# TMC2208
+# A4988
 schematic of tmc2208 for proteus cad 8
 
 # Model 3D By Pablo Miliani
