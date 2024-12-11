@@ -1,5 +1,5 @@
 # A4988
-schematic of tmc2208 for proteus cad 8
+schematic of A4988 for proteus cad 8.14
 
 # Model 3D By Pablo Miliani
 url:https://grabcad.com/library/tmc2208-and-headsink-outline-1
